@@ -1,10 +1,11 @@
-theme = "term16_light"
+theme = "catppuccin_frappe"
 
 [editor]
 cursorline = true
 auto-save = true
 continue-comments = false
 line-number = "relative"
+mouse = false
 
 [editor.soft-wrap]
 enable = true
